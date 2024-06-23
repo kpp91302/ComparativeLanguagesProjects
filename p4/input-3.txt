@@ -1,0 +1,25 @@
+Upgrade:	Saddle of the Cavalier	71
+Monster:	Sphinx	56
+Upgrade:	Ring of Invisibility	50
+Army:	The Iron Horde	Olivia	Circle of the Druids
+Hero:	Xan	90
+Special Rule:	Shapeshifting
+Unit:	Assassin	85
+Hero:	Minsc	60
+Hero:	Aerie	94
+Squad:	The Demon Hunters
+Monster:	Minotaur	78
+Hero:	Volo	92
+Upgrade:	Gloves of Dexterity	64
+Monster:	Minotaur	62
+Upgrade:	Gauntlets of Ogre Power	57
+Army:	The Iron Horde	Tina	The Shadowed Brotherhood
+Hero:	Xan	98
+Monster:	Minotaur	52
+Upgrade:	Enchanted Shield	99
+Special Rule:	Charm Person
+Enhanced Unit:	Enhanced Bard	71	Elemental Resistance
+Squad:	The Iron Wolves
+Unit:	Knight	56
+Enhanced Unit:	Enhanced Barbarian	44	Polymorph
+Enhanced Unit:	Enhanced Paladin	52	Shapeshifting

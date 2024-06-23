@@ -1,0 +1,25 @@
+Squad:	The Dragon Riders
+Upgrade:	Bag of Holding	80
+Squad:	The Silver Eagles
+Enhanced Unit:	Enhanced Assassin	49	Elemental Resistance
+Upgrade:	Amulet of Health	54
+Special Rule:	Teleportation
+Upgrade:	Gloves of Dexterity	97
+Unit:	Warlock	58
+Hero:	Volo	87
+Army:	The Black Knights	David	Circle of the Druids
+Special Rule:	Charm Person
+Upgrade:	Saddle of the Cavalier	84
+Hero:	Minsc	83
+Enhanced Unit:	Enhanced Rogue	49	Mind Control
+Unit:	Barbarian	90
+Special Rule:	Charm Person
+Squad:	The Shadow Blades
+Special Rule:	Illusion
+Monster:	Chimera	66
+Unit:	Cleric	55
+Unit:	Monk	81
+Hero:	Imoen	83
+Army:	The Black Knights	Rachel	The Shadowed Brotherhood
+Unit:	Cleric	52
+Hero:	Rasaad yn Bashir	76

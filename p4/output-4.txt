@@ -1,0 +1,89 @@
+Creating Monster: Orc, 96
+	Orc (96, 4, 4)
+Creating Squad: The Frost Knights
+	The Frost Knights (0, 2, 2)
+Creating Army: The Black Knights, Jack, The Shadowed Brotherhood
+	Player: Jack,  faction: The Shadowed Brotherhood, army: The Black Knights (0, 2, 2)
+Creating Hero: Khalid, 85
+	Khalid (85, 5, 5)
+Adding Hero to Squad
+	The Frost Knights (85, 2, 2) units: Khalid (85, 5, 5) 
+Creating Hero: Valygar Corthala, 67
+	Valygar Corthala (67, 5, 5)
+Adding Hero to Squad
+	The Frost Knights (152, 2, 2) units: Khalid (85, 5, 5) Valygar Corthala (67, 5, 5) 
+Creating Hero: Valygar Corthala, 89
+	Valygar Corthala (89, 5, 5)
+Adding Hero to Squad
+	The Frost Knights (241, 2, 2) units: Khalid (85, 5, 5) Valygar Corthala (67, 5, 5) Valygar Corthala (89, 5, 5) 
+Creating Monster: Beholder, 68
+	Beholder (68, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (309, 2, 2) units: Khalid (85, 5, 5) Valygar Corthala (67, 5, 5) Valygar Corthala (89, 5, 5) Beholder (68, 4, 4) 
+Adding special rule Etherealness to Beholder (68, 4, 4)
+Added special rule Etherealness to Beholder (68, 4, 4) special rule: [Etherealness]
+Creating Monster: Orc, 50
+	Orc (50, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (359, 2, 2) units: Khalid (85, 5, 5) Valygar Corthala (67, 5, 5) Valygar Corthala (89, 5, 5) Beholder (68, 4, 4) special rule: [Etherealness] Orc (50, 4, 4) 
+Creating Monster: Goblin, 74
+	Goblin (74, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (433, 2, 2) units: Khalid (85, 5, 5) Valygar Corthala (67, 5, 5) Valygar Corthala (89, 5, 5) Beholder (68, 4, 4) special rule: [Etherealness] Orc (50, 4, 4) Goblin (74, 4, 4) 
+Creating Squad: The Shadow Council
+	The Shadow Council (0, 2, 2)
+Adding Squad to Army
+	Player: Jack,  faction: The Shadowed Brotherhood, army: The Black Knights (0, 2, 2) units: The Shadow Council (0, 2, 2) 
+Creating Squad: The Frost Knights
+	The Frost Knights (0, 2, 2)
+Adding Squad to Army
+	Player: Jack,  faction: The Shadowed Brotherhood, army: The Black Knights (0, 2, 2) units: The Shadow Council (0, 2, 2) The Frost Knights (0, 2, 2) 
+Adding special rule Shadow Walk to Goblin (74, 4, 4)
+Added special rule Shadow Walk to Goblin (74, 4, 4) special rule: [Shadow Walk]
+Creating Enhanced Unit: Enhanced Sorcerer, 74
+	Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation]
+Adding Enhanced Unit to Squad
+	The Frost Knights (74, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] 
+Creating Monster: Orc, 94
+	Orc (94, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (168, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] Orc (94, 4, 4) 
+Creating Monster: Beholder, 91
+	Beholder (91, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (259, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] Orc (94, 4, 4) Beholder (91, 4, 4) 
+Creating Army: The Silver Shields, Alice, The Iron Legion
+	Player: Alice,  faction: The Iron Legion, army: The Silver Shields (0, 2, 2)
+Creating Monster: Dragon, 91
+	Dragon (91, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (350, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] Orc (94, 4, 4) Beholder (91, 4, 4) Dragon (91, 4, 4) 
+Creating Monster: Hydra, 52
+	Hydra (52, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (402, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] Orc (94, 4, 4) Beholder (91, 4, 4) Dragon (91, 4, 4) Hydra (52, 4, 4) 
+Creating Upgrade: Gauntlets of Ogre Power, 76
+	Gauntlets of Ogre Power (76)
+Adding Upgrade to Unit
+	Hydra (128, 4, 4) upgrades: [Gauntlets of Ogre Power (76)]
+Adding special rule Death Touch to Hydra (128, 4, 4) upgrades: [Gauntlets of Ogre Power (76)]
+Added special rule Death Touch to Hydra (128, 4, 4) upgrades: [Gauntlets of Ogre Power (76)] special rule: [Death Touch]
+Creating Monster: Cyclops, 78
+	Cyclops (78, 4, 4)
+Adding Monster to Squad
+	The Frost Knights (556, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] Orc (94, 4, 4) Beholder (91, 4, 4) Dragon (91, 4, 4) Hydra (128, 4, 4) upgrades: [Gauntlets of Ogre Power (76)] special rule: [Death Touch] Cyclops (78, 4, 4) 
+Creating Upgrade: Amulet of Health, 87
+	Amulet of Health (87)
+Adding Upgrade to Unit
+	Cyclops (165, 4, 4) upgrades: [Amulet of Health (87)]
+Creating Upgrade: Cloak of the Bat, 80
+	Cloak of the Bat (80)
+Adding Upgrade to Unit
+	Cyclops (245, 4, 4) upgrades: [Amulet of Health (87), Cloak of the Bat (80)]
+Adding special rule Shapeshifting to Cyclops (245, 4, 4) upgrades: [Amulet of Health (87), Cloak of the Bat (80)]
+Added special rule Shapeshifting to Cyclops (245, 4, 4) upgrades: [Amulet of Health (87), Cloak of the Bat (80)] special rule: [Shapeshifting]
+Summary of final units
+Last army: Player: Alice,  faction: The Iron Legion, army: The Silver Shields (0, 2, 2)
+Last squad: The Frost Knights (723, 2, 2) units: Enhanced Sorcerer (74, 2, 2) special rule: [Teleportation] Orc (94, 4, 4) Beholder (91, 4, 4) Dragon (91, 4, 4) Hydra (128, 4, 4) upgrades: [Gauntlets of Ogre Power (76)] special rule: [Death Touch] Cyclops (245, 4, 4) upgrades: [Amulet of Health (87), Cloak of the Bat (80)] special rule: [Shapeshifting] 
+Last enhanced unit: Cyclops (245, 4, 4) upgrades: [Amulet of Health (87), Cloak of the Bat (80)] special rule: [Shapeshifting]
+Last unit: Cyclops (245, 4, 4) upgrades: [Amulet of Health (87), Cloak of the Bat (80)] special rule: [Shapeshifting]

@@ -1,0 +1,25 @@
+Army:	The Crimson Guard	Isabella	The Shadowed Brotherhood
+Hero:	Rasaad yn Bashir	65
+Monster:	Manticore	76
+Squad:	The Demon Hunters
+Squad:	The Crimson Blades
+Special Rule:	Elemental Resistance
+Monster:	Giant	99
+Monster:	Orc	60
+Squad:	The Arcane Legion
+Upgrade:	Gloves of Dexterity	63
+Special Rule:	Shadow Walk
+Enhanced Unit:	Enhanced Warlock	36	Shapeshifting
+Special Rule:	Polymorph
+Special Rule:	Charm Person
+Hero:	Elminster	56
+Special Rule:	Shadow Walk
+Unit:	Sorcerer	90
+Enhanced Unit:	Enhanced Druid	59	Charm Person
+Unit:	Cleric	95
+Enhanced Unit:	Enhanced Rogue	56	Etherealness
+Monster:	Chimera	61
+Special Rule:	Teleportation
+Special Rule:	Teleportation
+Army:	The Silver Shields	Liam	The Iron Legion
+Monster:	Giant	68

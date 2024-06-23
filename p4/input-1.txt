@@ -1,0 +1,25 @@
+Enhanced Unit:	Enhanced Cleric	35	Invisibility
+Hero:	Mazzy Fentan	54
+Upgrade:	Saddle of the Cavalier	50
+Monster:	Manticore	88
+Army:	The Crimson Guard	Mary	The Shadowed Brotherhood
+Unit:	Necromancer	78
+Hero:	Elminster	71
+Special Rule:	Summon Elemental
+Unit:	Warlock	65
+Monster:	Troll	94
+Special Rule:	Shadow Walk
+Enhanced Unit:	Enhanced Cleric	54	Polymorph
+Army:	The Crimson Guard	Nathan	Order of the Silver Dragon
+Special Rule:	Divine Intervention
+Special Rule:	Shadow Walk
+Monster:	Minotaur	65
+Hero:	Drizzt Do'Urden	97
+Squad:	The Emerald Enforcers
+Squad:	The Storm Bringers
+Monster:	Cyclops	99
+Monster:	Kraken	83
+Unit:	Warlock	50
+Monster:	Orc	95
+Unit:	Necromancer	70
+Enhanced Unit:	Enhanced Assassin	34	Time Stop

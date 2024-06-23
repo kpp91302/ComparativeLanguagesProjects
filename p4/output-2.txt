@@ -1,0 +1,83 @@
+Creating Army: The Crimson Guard, Isabella, The Shadowed Brotherhood
+	Player: Isabella,  faction: The Shadowed Brotherhood, army: The Crimson Guard (0, 2, 2)
+Creating Hero: Rasaad yn Bashir, 65
+	Rasaad yn Bashir (65, 5, 5)
+Creating Monster: Manticore, 76
+	Manticore (76, 4, 4)
+Creating Squad: The Demon Hunters
+	The Demon Hunters (0, 2, 2)
+Adding Squad to Army
+	Player: Isabella,  faction: The Shadowed Brotherhood, army: The Crimson Guard (0, 2, 2) units: The Demon Hunters (0, 2, 2) 
+Creating Squad: The Crimson Blades
+	The Crimson Blades (0, 2, 2)
+Adding Squad to Army
+	Player: Isabella,  faction: The Shadowed Brotherhood, army: The Crimson Guard (0, 2, 2) units: The Demon Hunters (0, 2, 2) The Crimson Blades (0, 2, 2) 
+Adding special rule Elemental Resistance to Manticore (76, 4, 4)
+Added special rule Elemental Resistance to Manticore (76, 4, 4) special rule: [Elemental Resistance]
+Creating Monster: Giant, 99
+	Giant (99, 4, 4)
+Adding Monster to Squad
+	The Crimson Blades (99, 2, 2) units: Giant (99, 4, 4) 
+Creating Monster: Orc, 60
+	Orc (60, 4, 4)
+Adding Monster to Squad
+	The Crimson Blades (159, 2, 2) units: Giant (99, 4, 4) Orc (60, 4, 4) 
+Creating Squad: The Arcane Legion
+	The Arcane Legion (0, 2, 2)
+Adding Squad to Army
+	Player: Isabella,  faction: The Shadowed Brotherhood, army: The Crimson Guard (159, 2, 2) units: The Demon Hunters (0, 2, 2) The Crimson Blades (159, 2, 2) units: Giant (99, 4, 4) Orc (60, 4, 4)  The Arcane Legion (0, 2, 2) 
+Creating Upgrade: Gloves of Dexterity, 63
+	Gloves of Dexterity (63)
+Adding Upgrade to Unit
+	Orc (123, 4, 4) upgrades: [Gloves of Dexterity (63)]
+Adding special rule Shadow Walk to Orc (123, 4, 4) upgrades: [Gloves of Dexterity (63)]
+Added special rule Shadow Walk to Orc (123, 4, 4) upgrades: [Gloves of Dexterity (63)] special rule: [Shadow Walk]
+Creating Enhanced Unit: Enhanced Warlock, 36
+	Enhanced Warlock (36, 2, 2) special rule: [Shapeshifting]
+Adding Enhanced Unit to Squad
+	The Arcane Legion (36, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Shapeshifting] 
+Adding special rule Polymorph to Enhanced Warlock (36, 2, 2) special rule: [Shapeshifting]
+Added special rule Polymorph to Enhanced Warlock (36, 2, 2) special rule: [Polymorph]
+Adding special rule Charm Person to Enhanced Warlock (36, 2, 2) special rule: [Polymorph]
+Added special rule Charm Person to Enhanced Warlock (36, 2, 2) special rule: [Charm Person]
+Creating Hero: Elminster, 56
+	Elminster (56, 5, 5)
+Adding Hero to Squad
+	The Arcane Legion (92, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) 
+Adding special rule Shadow Walk to Elminster (56, 5, 5)
+Added special rule Shadow Walk to Elminster (56, 5, 5) special rule: [Shadow Walk]
+Creating Unit: Sorcerer, 90
+	Sorcerer (90, 2, 2)
+Adding Unit to Squad
+	The Arcane Legion (182, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) 
+Creating Enhanced Unit: Enhanced Druid, 59
+	Enhanced Druid (59, 2, 2) special rule: [Charm Person]
+Adding Enhanced Unit to Squad
+	The Arcane Legion (241, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) Enhanced Druid (59, 2, 2) special rule: [Charm Person] 
+Creating Unit: Cleric, 95
+	Cleric (95, 2, 2)
+Adding Unit to Squad
+	The Arcane Legion (336, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) Enhanced Druid (59, 2, 2) special rule: [Charm Person] Cleric (95, 2, 2) 
+Creating Enhanced Unit: Enhanced Rogue, 56
+	Enhanced Rogue (56, 2, 2) special rule: [Etherealness]
+Adding Enhanced Unit to Squad
+	The Arcane Legion (392, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) Enhanced Druid (59, 2, 2) special rule: [Charm Person] Cleric (95, 2, 2) Enhanced Rogue (56, 2, 2) special rule: [Etherealness] 
+Creating Monster: Chimera, 61
+	Chimera (61, 4, 4)
+Adding Monster to Squad
+	The Arcane Legion (453, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) Enhanced Druid (59, 2, 2) special rule: [Charm Person] Cleric (95, 2, 2) Enhanced Rogue (56, 2, 2) special rule: [Etherealness] Chimera (61, 4, 4) 
+Adding special rule Teleportation to Chimera (61, 4, 4)
+Added special rule Teleportation to Chimera (61, 4, 4) special rule: [Teleportation]
+Adding special rule Teleportation to Chimera (61, 4, 4) special rule: [Teleportation]
+Added special rule Teleportation to Chimera (61, 4, 4) special rule: [Teleportation]
+Creating Army: The Silver Shields, Liam, The Iron Legion
+	Player: Liam,  faction: The Iron Legion, army: The Silver Shields (0, 2, 2)
+Creating Monster: Giant, 68
+	Giant (68, 4, 4)
+Adding Monster to Squad
+	The Arcane Legion (521, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) Enhanced Druid (59, 2, 2) special rule: [Charm Person] Cleric (95, 2, 2) Enhanced Rogue (56, 2, 2) special rule: [Etherealness] Chimera (61, 4, 4) special rule: [Teleportation] Giant (68, 4, 4) 
+Summary of final units
+Last army: Player: Liam,  faction: The Iron Legion, army: The Silver Shields (0, 2, 2)
+Last squad: The Arcane Legion (521, 2, 2) units: Enhanced Warlock (36, 2, 2) special rule: [Charm Person] Elminster (56, 5, 5) special rule: [Shadow Walk] Sorcerer (90, 2, 2) Enhanced Druid (59, 2, 2) special rule: [Charm Person] Cleric (95, 2, 2) Enhanced Rogue (56, 2, 2) special rule: [Etherealness] Chimera (61, 4, 4) special rule: [Teleportation] Giant (68, 4, 4) 
+Last enhanced unit: Giant (68, 4, 4)
+Last unit: Giant (68, 4, 4)

@@ -1,0 +1,5 @@
+10 [[sweater,9],[book,6],[skirt,8],[glasses,9],[shampoo,6]]
+9 [[jacket,5],[umbrella,8]]
+2 [[shirt,6],[phone,6],[belt,8],[hat,9],[shampoo,9],[sweater,5],[book,9],[skirt,8],[shampoo,8]]
+15 [[book,9],[phone,8],[book,9],[shirt,5]]
+14 [[brush,6],[computer,6],[skirt,9],[hat,8],[shirt,5],[brush,5],[shoes,5],[glasses,6],[book,6],[suncreen,9]]

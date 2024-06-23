@@ -1,0 +1,87 @@
+Creating Squad: The Dragon Riders
+	The Dragon Riders (0, 2, 2)
+Creating Upgrade: Bag of Holding, 80
+	Bag of Holding (80)
+Creating Squad: The Silver Eagles
+	The Silver Eagles (0, 2, 2)
+Creating Enhanced Unit: Enhanced Assassin, 49
+	Enhanced Assassin (49, 2, 2) special rule: [Elemental Resistance]
+Adding Enhanced Unit to Squad
+	The Silver Eagles (49, 2, 2) units: Enhanced Assassin (49, 2, 2) special rule: [Elemental Resistance] 
+Creating Upgrade: Amulet of Health, 54
+	Amulet of Health (54)
+Adding Upgrade to Unit
+	Enhanced Assassin (103, 2, 2) upgrades: [Amulet of Health (54)] special rule: [Elemental Resistance]
+Adding special rule Teleportation to Enhanced Assassin (103, 2, 2) upgrades: [Amulet of Health (54)] special rule: [Elemental Resistance]
+Added special rule Teleportation to Enhanced Assassin (103, 2, 2) upgrades: [Amulet of Health (54)] special rule: [Teleportation]
+Creating Upgrade: Gloves of Dexterity, 97
+	Gloves of Dexterity (97)
+Adding Upgrade to Unit
+	Enhanced Assassin (200, 2, 2) upgrades: [Amulet of Health (54), Gloves of Dexterity (97)] special rule: [Teleportation]
+Creating Unit: Warlock, 58
+	Warlock (58, 2, 2)
+Adding Unit to Squad
+	The Silver Eagles (258, 2, 2) units: Enhanced Assassin (200, 2, 2) upgrades: [Amulet of Health (54), Gloves of Dexterity (97)] special rule: [Teleportation] Warlock (58, 2, 2) 
+Creating Hero: Volo, 87
+	Volo (87, 5, 5)
+Adding Hero to Squad
+	The Silver Eagles (345, 2, 2) units: Enhanced Assassin (200, 2, 2) upgrades: [Amulet of Health (54), Gloves of Dexterity (97)] special rule: [Teleportation] Warlock (58, 2, 2) Volo (87, 5, 5) 
+Creating Army: The Black Knights, David, Circle of the Druids
+	Player: David,  faction: Circle of the Druids, army: The Black Knights (0, 2, 2)
+Adding special rule Charm Person to Volo (87, 5, 5)
+Added special rule Charm Person to Volo (87, 5, 5) special rule: [Charm Person]
+Creating Upgrade: Saddle of the Cavalier, 84
+	Saddle of the Cavalier (84)
+Adding Upgrade to Unit
+	Volo (171, 5, 5) upgrades: [Saddle of the Cavalier (84)] special rule: [Charm Person]
+Creating Hero: Minsc, 83
+	Minsc (83, 5, 5)
+Adding Hero to Squad
+	The Silver Eagles (512, 2, 2) units: Enhanced Assassin (200, 2, 2) upgrades: [Amulet of Health (54), Gloves of Dexterity (97)] special rule: [Teleportation] Warlock (58, 2, 2) Volo (171, 5, 5) upgrades: [Saddle of the Cavalier (84)] special rule: [Charm Person] Minsc (83, 5, 5) 
+Creating Enhanced Unit: Enhanced Rogue, 49
+	Enhanced Rogue (49, 2, 2) special rule: [Mind Control]
+Adding Enhanced Unit to Squad
+	The Silver Eagles (561, 2, 2) units: Enhanced Assassin (200, 2, 2) upgrades: [Amulet of Health (54), Gloves of Dexterity (97)] special rule: [Teleportation] Warlock (58, 2, 2) Volo (171, 5, 5) upgrades: [Saddle of the Cavalier (84)] special rule: [Charm Person] Minsc (83, 5, 5) Enhanced Rogue (49, 2, 2) special rule: [Mind Control] 
+Creating Unit: Barbarian, 90
+	Barbarian (90, 2, 2)
+Adding Unit to Squad
+	The Silver Eagles (651, 2, 2) units: Enhanced Assassin (200, 2, 2) upgrades: [Amulet of Health (54), Gloves of Dexterity (97)] special rule: [Teleportation] Warlock (58, 2, 2) Volo (171, 5, 5) upgrades: [Saddle of the Cavalier (84)] special rule: [Charm Person] Minsc (83, 5, 5) Enhanced Rogue (49, 2, 2) special rule: [Mind Control] Barbarian (90, 2, 2) 
+Adding special rule Charm Person to Enhanced Rogue (49, 2, 2) special rule: [Mind Control]
+Added special rule Charm Person to Enhanced Rogue (49, 2, 2) special rule: [Charm Person]
+Creating Squad: The Shadow Blades
+	The Shadow Blades (0, 2, 2)
+Adding Squad to Army
+	Player: David,  faction: Circle of the Druids, army: The Black Knights (0, 2, 2) units: The Shadow Blades (0, 2, 2) 
+Adding special rule Illusion to Enhanced Rogue (49, 2, 2) special rule: [Charm Person]
+Added special rule Illusion to Enhanced Rogue (49, 2, 2) special rule: [Illusion]
+Creating Monster: Chimera, 66
+	Chimera (66, 4, 4)
+Adding Monster to Squad
+	The Shadow Blades (66, 2, 2) units: Chimera (66, 4, 4) 
+Creating Unit: Cleric, 55
+	Cleric (55, 2, 2)
+Adding Unit to Squad
+	The Shadow Blades (121, 2, 2) units: Chimera (66, 4, 4) Cleric (55, 2, 2) 
+Creating Unit: Monk, 81
+	Monk (81, 2, 2)
+Adding Unit to Squad
+	The Shadow Blades (202, 2, 2) units: Chimera (66, 4, 4) Cleric (55, 2, 2) Monk (81, 2, 2) 
+Creating Hero: Imoen, 83
+	Imoen (83, 5, 5)
+Adding Hero to Squad
+	The Shadow Blades (285, 2, 2) units: Chimera (66, 4, 4) Cleric (55, 2, 2) Monk (81, 2, 2) Imoen (83, 5, 5) 
+Creating Army: The Black Knights, Rachel, The Shadowed Brotherhood
+	Player: Rachel,  faction: The Shadowed Brotherhood, army: The Black Knights (0, 2, 2)
+Creating Unit: Cleric, 52
+	Cleric (52, 2, 2)
+Adding Unit to Squad
+	The Shadow Blades (337, 2, 2) units: Chimera (66, 4, 4) Cleric (55, 2, 2) Monk (81, 2, 2) Imoen (83, 5, 5) Cleric (52, 2, 2) 
+Creating Hero: Rasaad yn Bashir, 76
+	Rasaad yn Bashir (76, 5, 5)
+Adding Hero to Squad
+	The Shadow Blades (413, 2, 2) units: Chimera (66, 4, 4) Cleric (55, 2, 2) Monk (81, 2, 2) Imoen (83, 5, 5) Cleric (52, 2, 2) Rasaad yn Bashir (76, 5, 5) 
+Summary of final units
+Last army: Player: Rachel,  faction: The Shadowed Brotherhood, army: The Black Knights (0, 2, 2)
+Last squad: The Shadow Blades (413, 2, 2) units: Chimera (66, 4, 4) Cleric (55, 2, 2) Monk (81, 2, 2) Imoen (83, 5, 5) Cleric (52, 2, 2) Rasaad yn Bashir (76, 5, 5) 
+Last enhanced unit: Rasaad yn Bashir (76, 5, 5)
+Last unit: Rasaad yn Bashir (76, 5, 5)

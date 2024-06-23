@@ -1,0 +1,25 @@
+Monster:	Orc	96
+Squad:	The Frost Knights
+Army:	The Black Knights	Jack	The Shadowed Brotherhood
+Hero:	Khalid	85
+Hero:	Valygar Corthala	67
+Hero:	Valygar Corthala	89
+Monster:	Beholder	68
+Special Rule:	Etherealness
+Monster:	Orc	50
+Monster:	Goblin	74
+Squad:	The Shadow Council
+Squad:	The Frost Knights
+Special Rule:	Shadow Walk
+Enhanced Unit:	Enhanced Sorcerer	74	Teleportation
+Monster:	Orc	94
+Monster:	Beholder	91
+Army:	The Silver Shields	Alice	The Iron Legion
+Monster:	Dragon	91
+Monster:	Hydra	52
+Upgrade:	Gauntlets of Ogre Power	76
+Special Rule:	Death Touch
+Monster:	Cyclops	78
+Upgrade:	Amulet of Health	87
+Upgrade:	Cloak of the Bat	80
+Special Rule:	Shapeshifting

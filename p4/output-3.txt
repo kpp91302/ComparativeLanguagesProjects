@@ -1,0 +1,85 @@
+Creating Upgrade: Saddle of the Cavalier, 71
+	Saddle of the Cavalier (71)
+Creating Monster: Sphinx, 56
+	Sphinx (56, 4, 4)
+Creating Upgrade: Ring of Invisibility, 50
+	Ring of Invisibility (50)
+Adding Upgrade to Unit
+	Sphinx (106, 4, 4) upgrades: [Ring of Invisibility (50)]
+Creating Army: The Iron Horde, Olivia, Circle of the Druids
+	Player: Olivia,  faction: Circle of the Druids, army: The Iron Horde (0, 2, 2)
+Creating Hero: Xan, 90
+	Xan (90, 5, 5)
+Adding special rule Shapeshifting to Xan (90, 5, 5)
+Added special rule Shapeshifting to Xan (90, 5, 5) special rule: [Shapeshifting]
+Creating Unit: Assassin, 85
+	Assassin (85, 2, 2)
+Creating Hero: Minsc, 60
+	Minsc (60, 5, 5)
+Creating Hero: Aerie, 94
+	Aerie (94, 5, 5)
+Creating Squad: The Demon Hunters
+	The Demon Hunters (0, 2, 2)
+Adding Squad to Army
+	Player: Olivia,  faction: Circle of the Druids, army: The Iron Horde (0, 2, 2) units: The Demon Hunters (0, 2, 2) 
+Creating Monster: Minotaur, 78
+	Minotaur (78, 4, 4)
+Adding Monster to Squad
+	The Demon Hunters (78, 2, 2) units: Minotaur (78, 4, 4) 
+Creating Hero: Volo, 92
+	Volo (92, 5, 5)
+Adding Hero to Squad
+	The Demon Hunters (170, 2, 2) units: Minotaur (78, 4, 4) Volo (92, 5, 5) 
+Creating Upgrade: Gloves of Dexterity, 64
+	Gloves of Dexterity (64)
+Adding Upgrade to Unit
+	Volo (156, 5, 5) upgrades: [Gloves of Dexterity (64)]
+Creating Monster: Minotaur, 62
+	Minotaur (62, 4, 4)
+Adding Monster to Squad
+	The Demon Hunters (296, 2, 2) units: Minotaur (78, 4, 4) Volo (156, 5, 5) upgrades: [Gloves of Dexterity (64)] Minotaur (62, 4, 4) 
+Creating Upgrade: Gauntlets of Ogre Power, 57
+	Gauntlets of Ogre Power (57)
+Adding Upgrade to Unit
+	Minotaur (119, 4, 4) upgrades: [Gauntlets of Ogre Power (57)]
+Creating Army: The Iron Horde, Tina, The Shadowed Brotherhood
+	Player: Tina,  faction: The Shadowed Brotherhood, army: The Iron Horde (0, 2, 2)
+Creating Hero: Xan, 98
+	Xan (98, 5, 5)
+Adding Hero to Squad
+	The Demon Hunters (451, 2, 2) units: Minotaur (78, 4, 4) Volo (156, 5, 5) upgrades: [Gloves of Dexterity (64)] Minotaur (119, 4, 4) upgrades: [Gauntlets of Ogre Power (57)] Xan (98, 5, 5) 
+Creating Monster: Minotaur, 52
+	Minotaur (52, 4, 4)
+Adding Monster to Squad
+	The Demon Hunters (503, 2, 2) units: Minotaur (78, 4, 4) Volo (156, 5, 5) upgrades: [Gloves of Dexterity (64)] Minotaur (119, 4, 4) upgrades: [Gauntlets of Ogre Power (57)] Xan (98, 5, 5) Minotaur (52, 4, 4) 
+Creating Upgrade: Enchanted Shield, 99
+	Enchanted Shield (99)
+Adding Upgrade to Unit
+	Minotaur (151, 4, 4) upgrades: [Enchanted Shield (99)]
+Adding special rule Charm Person to Minotaur (151, 4, 4) upgrades: [Enchanted Shield (99)]
+Added special rule Charm Person to Minotaur (151, 4, 4) upgrades: [Enchanted Shield (99)] special rule: [Charm Person]
+Creating Enhanced Unit: Enhanced Bard, 71
+	Enhanced Bard (71, 2, 2) special rule: [Elemental Resistance]
+Adding Enhanced Unit to Squad
+	The Demon Hunters (673, 2, 2) units: Minotaur (78, 4, 4) Volo (156, 5, 5) upgrades: [Gloves of Dexterity (64)] Minotaur (119, 4, 4) upgrades: [Gauntlets of Ogre Power (57)] Xan (98, 5, 5) Minotaur (151, 4, 4) upgrades: [Enchanted Shield (99)] special rule: [Charm Person] Enhanced Bard (71, 2, 2) special rule: [Elemental Resistance] 
+Creating Squad: The Iron Wolves
+	The Iron Wolves (0, 2, 2)
+Adding Squad to Army
+	Player: Tina,  faction: The Shadowed Brotherhood, army: The Iron Horde (0, 2, 2) units: The Iron Wolves (0, 2, 2) 
+Creating Unit: Knight, 56
+	Knight (56, 2, 2)
+Adding Unit to Squad
+	The Iron Wolves (56, 2, 2) units: Knight (56, 2, 2) 
+Creating Enhanced Unit: Enhanced Barbarian, 44
+	Enhanced Barbarian (44, 2, 2) special rule: [Polymorph]
+Adding Enhanced Unit to Squad
+	The Iron Wolves (100, 2, 2) units: Knight (56, 2, 2) Enhanced Barbarian (44, 2, 2) special rule: [Polymorph] 
+Creating Enhanced Unit: Enhanced Paladin, 52
+	Enhanced Paladin (52, 2, 2) special rule: [Shapeshifting]
+Adding Enhanced Unit to Squad
+	The Iron Wolves (152, 2, 2) units: Knight (56, 2, 2) Enhanced Barbarian (44, 2, 2) special rule: [Polymorph] Enhanced Paladin (52, 2, 2) special rule: [Shapeshifting] 
+Summary of final units
+Last army: Player: Tina,  faction: The Shadowed Brotherhood, army: The Iron Horde (152, 2, 2) units: The Iron Wolves (152, 2, 2) units: Knight (56, 2, 2) Enhanced Barbarian (44, 2, 2) special rule: [Polymorph] Enhanced Paladin (52, 2, 2) special rule: [Shapeshifting]  
+Last squad: The Iron Wolves (152, 2, 2) units: Knight (56, 2, 2) Enhanced Barbarian (44, 2, 2) special rule: [Polymorph] Enhanced Paladin (52, 2, 2) special rule: [Shapeshifting] 
+Last enhanced unit: Enhanced Paladin (52, 2, 2) special rule: [Shapeshifting]
+Last unit: Enhanced Paladin (52, 2, 2) special rule: [Shapeshifting]

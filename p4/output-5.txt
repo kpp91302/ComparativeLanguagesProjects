@@ -1,0 +1,73 @@
+Creating Hero: Imoen, 74
+	Imoen (74, 5, 5)
+Creating Monster: Medusa, 90
+	Medusa (90, 4, 4)
+Creating Hero: Rasaad yn Bashir, 68
+	Rasaad yn Bashir (68, 5, 5)
+Creating Unit: Monk, 76
+	Monk (76, 2, 2)
+Creating Enhanced Unit: Enhanced Monk, 63
+	Enhanced Monk (63, 2, 2) special rule: [Flight]
+Creating Monster: Manticore, 91
+	Manticore (91, 4, 4)
+Creating Unit: Rogue, 54
+	Rogue (54, 2, 2)
+Creating Hero: Rasaad yn Bashir, 76
+	Rasaad yn Bashir (76, 5, 5)
+Creating Hero: Rasaad yn Bashir, 92
+	Rasaad yn Bashir (92, 5, 5)
+Creating Monster: Hydra, 61
+	Hydra (61, 4, 4)
+Creating Upgrade: Bag of Holding, 85
+	Bag of Holding (85)
+Adding Upgrade to Unit
+	Hydra (146, 4, 4) upgrades: [Bag of Holding (85)]
+Creating Squad: The Shadow Blades
+	The Shadow Blades (0, 2, 2)
+Creating Army: The Golden Legion, Mary, The Shadowed Brotherhood
+	Player: Mary,  faction: The Shadowed Brotherhood, army: The Golden Legion (0, 2, 2)
+Creating Army: The Black Knights, Charlie, The Iron Legion
+	Player: Charlie,  faction: The Iron Legion, army: The Black Knights (0, 2, 2)
+Adding special rule Invisibility to Hydra (146, 4, 4) upgrades: [Bag of Holding (85)]
+Added special rule Invisibility to Hydra (146, 4, 4) upgrades: [Bag of Holding (85)] special rule: [Invisibility]
+Creating Enhanced Unit: Enhanced Rogue, 68
+	Enhanced Rogue (68, 2, 2) special rule: [Mind Control]
+Adding Enhanced Unit to Squad
+	The Shadow Blades (68, 2, 2) units: Enhanced Rogue (68, 2, 2) special rule: [Mind Control] 
+Adding special rule Flight to Enhanced Rogue (68, 2, 2) special rule: [Mind Control]
+Added special rule Flight to Enhanced Rogue (68, 2, 2) special rule: [Flight]
+Adding special rule Shadow Walk to Enhanced Rogue (68, 2, 2) special rule: [Flight]
+Added special rule Shadow Walk to Enhanced Rogue (68, 2, 2) special rule: [Shadow Walk]
+Creating Unit: Wizard, 79
+	Wizard (79, 2, 2)
+Adding Unit to Squad
+	The Shadow Blades (147, 2, 2) units: Enhanced Rogue (68, 2, 2) special rule: [Shadow Walk] Wizard (79, 2, 2) 
+Creating Hero: Sarevok, 79
+	Sarevok (79, 5, 5)
+Adding Hero to Squad
+	The Shadow Blades (226, 2, 2) units: Enhanced Rogue (68, 2, 2) special rule: [Shadow Walk] Wizard (79, 2, 2) Sarevok (79, 5, 5) 
+Creating Hero: Xan, 71
+	Xan (71, 5, 5)
+Adding Hero to Squad
+	The Shadow Blades (297, 2, 2) units: Enhanced Rogue (68, 2, 2) special rule: [Shadow Walk] Wizard (79, 2, 2) Sarevok (79, 5, 5) Xan (71, 5, 5) 
+Creating Squad: The Demon Hunters
+	The Demon Hunters (0, 2, 2)
+Adding Squad to Army
+	Player: Charlie,  faction: The Iron Legion, army: The Black Knights (0, 2, 2) units: The Demon Hunters (0, 2, 2) 
+Creating Upgrade: Gauntlets of Ogre Power, 94
+	Gauntlets of Ogre Power (94)
+Adding Upgrade to Unit
+	Xan (165, 5, 5) upgrades: [Gauntlets of Ogre Power (94)]
+Creating Squad: The Storm Bringers
+	The Storm Bringers (0, 2, 2)
+Adding Squad to Army
+	Player: Charlie,  faction: The Iron Legion, army: The Black Knights (0, 2, 2) units: The Demon Hunters (0, 2, 2) The Storm Bringers (0, 2, 2) 
+Creating Upgrade: Potion of Healing, 66
+	Potion of Healing (66)
+Adding Upgrade to Unit
+	Xan (231, 5, 5) upgrades: [Gauntlets of Ogre Power (94), Potion of Healing (66)]
+Summary of final units
+Last army: Player: Charlie,  faction: The Iron Legion, army: The Black Knights (0, 2, 2) units: The Demon Hunters (0, 2, 2) The Storm Bringers (0, 2, 2) 
+Last squad: The Storm Bringers (0, 2, 2)
+Last enhanced unit: Xan (231, 5, 5) upgrades: [Gauntlets of Ogre Power (94), Potion of Healing (66)]
+Last unit: Xan (231, 5, 5) upgrades: [Gauntlets of Ogre Power (94), Potion of Healing (66)]

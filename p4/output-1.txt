@@ -1,0 +1,73 @@
+Creating Enhanced Unit: Enhanced Cleric, 35
+	Enhanced Cleric (35, 2, 2) special rule: [Invisibility]
+Creating Hero: Mazzy Fentan, 54
+	Mazzy Fentan (54, 5, 5)
+Creating Upgrade: Saddle of the Cavalier, 50
+	Saddle of the Cavalier (50)
+Adding Upgrade to Unit
+	Mazzy Fentan (104, 5, 5) upgrades: [Saddle of the Cavalier (50)]
+Creating Monster: Manticore, 88
+	Manticore (88, 4, 4)
+Creating Army: The Crimson Guard, Mary, The Shadowed Brotherhood
+	Player: Mary,  faction: The Shadowed Brotherhood, army: The Crimson Guard (0, 2, 2)
+Creating Unit: Necromancer, 78
+	Necromancer (78, 2, 2)
+Creating Hero: Elminster, 71
+	Elminster (71, 5, 5)
+Adding special rule Summon Elemental to Elminster (71, 5, 5)
+Added special rule Summon Elemental to Elminster (71, 5, 5) special rule: [Summon Elemental]
+Creating Unit: Warlock, 65
+	Warlock (65, 2, 2)
+Creating Monster: Troll, 94
+	Troll (94, 4, 4)
+Adding special rule Shadow Walk to Troll (94, 4, 4)
+Added special rule Shadow Walk to Troll (94, 4, 4) special rule: [Shadow Walk]
+Creating Enhanced Unit: Enhanced Cleric, 54
+	Enhanced Cleric (54, 2, 2) special rule: [Polymorph]
+Creating Army: The Crimson Guard, Nathan, Order of the Silver Dragon
+	Player: Nathan,  faction: Order of the Silver Dragon, army: The Crimson Guard (0, 2, 2)
+Adding special rule Divine Intervention to Enhanced Cleric (54, 2, 2) special rule: [Polymorph]
+Added special rule Divine Intervention to Enhanced Cleric (54, 2, 2) special rule: [Divine Intervention]
+Adding special rule Shadow Walk to Enhanced Cleric (54, 2, 2) special rule: [Divine Intervention]
+Added special rule Shadow Walk to Enhanced Cleric (54, 2, 2) special rule: [Shadow Walk]
+Creating Monster: Minotaur, 65
+	Minotaur (65, 4, 4)
+Creating Hero: Drizzt Do'Urden, 97
+	Drizzt Do'Urden (97, 5, 5)
+Creating Squad: The Emerald Enforcers
+	The Emerald Enforcers (0, 2, 2)
+Adding Squad to Army
+	Player: Nathan,  faction: Order of the Silver Dragon, army: The Crimson Guard (0, 2, 2) units: The Emerald Enforcers (0, 2, 2) 
+Creating Squad: The Storm Bringers
+	The Storm Bringers (0, 2, 2)
+Adding Squad to Army
+	Player: Nathan,  faction: Order of the Silver Dragon, army: The Crimson Guard (0, 2, 2) units: The Emerald Enforcers (0, 2, 2) The Storm Bringers (0, 2, 2) 
+Creating Monster: Cyclops, 99
+	Cyclops (99, 4, 4)
+Adding Monster to Squad
+	The Storm Bringers (99, 2, 2) units: Cyclops (99, 4, 4) 
+Creating Monster: Kraken, 83
+	Kraken (83, 4, 4)
+Adding Monster to Squad
+	The Storm Bringers (182, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) 
+Creating Unit: Warlock, 50
+	Warlock (50, 2, 2)
+Adding Unit to Squad
+	The Storm Bringers (232, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) Warlock (50, 2, 2) 
+Creating Monster: Orc, 95
+	Orc (95, 4, 4)
+Adding Monster to Squad
+	The Storm Bringers (327, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) Warlock (50, 2, 2) Orc (95, 4, 4) 
+Creating Unit: Necromancer, 70
+	Necromancer (70, 2, 2)
+Adding Unit to Squad
+	The Storm Bringers (397, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) Warlock (50, 2, 2) Orc (95, 4, 4) Necromancer (70, 2, 2) 
+Creating Enhanced Unit: Enhanced Assassin, 34
+	Enhanced Assassin (34, 2, 2) special rule: [Time Stop]
+Adding Enhanced Unit to Squad
+	The Storm Bringers (431, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) Warlock (50, 2, 2) Orc (95, 4, 4) Necromancer (70, 2, 2) Enhanced Assassin (34, 2, 2) special rule: [Time Stop] 
+Summary of final units
+Last army: Player: Nathan,  faction: Order of the Silver Dragon, army: The Crimson Guard (431, 2, 2) units: The Emerald Enforcers (0, 2, 2) The Storm Bringers (431, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) Warlock (50, 2, 2) Orc (95, 4, 4) Necromancer (70, 2, 2) Enhanced Assassin (34, 2, 2) special rule: [Time Stop]  
+Last squad: The Storm Bringers (431, 2, 2) units: Cyclops (99, 4, 4) Kraken (83, 4, 4) Warlock (50, 2, 2) Orc (95, 4, 4) Necromancer (70, 2, 2) Enhanced Assassin (34, 2, 2) special rule: [Time Stop] 
+Last enhanced unit: Enhanced Assassin (34, 2, 2) special rule: [Time Stop]
+Last unit: Enhanced Assassin (34, 2, 2) special rule: [Time Stop]

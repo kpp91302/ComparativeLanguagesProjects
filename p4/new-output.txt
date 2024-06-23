@@ -1,0 +1,33 @@
+Creating Army: Army Name, Player Name, Faction Name
+	Player: Player Name,  faction: Faction Name, army: Army Name (0, 2, 2)
+Creating Squad: Squad Name
+	Squad Name (0, 2, 2)
+Adding Squad to Army
+	Player: Player Name,  faction: Faction Name, army: Army Name (0, 2, 2) units: Squad Name (0, 2, 2) 
+Creating Hero: Hero Name, 100
+	Hero Name (100, 5, 5)
+Adding Hero to Squad
+	Squad Name (100, 2, 2) units: Hero Name (100, 5, 5) 
+Creating Monster: Monster Name, 100
+	Monster Name (100, 4, 4)
+Adding Monster to Squad
+	Squad Name (200, 2, 2) units: Hero Name (100, 5, 5) Monster Name (100, 4, 4) 
+Creating Enhanced Unit: Enhanced Unit Name, 100
+	Enhanced Unit Name (100, 2, 2) special rule: [Special Rule]
+Adding Enhanced Unit to Squad
+	Squad Name (300, 2, 2) units: Hero Name (100, 5, 5) Monster Name (100, 4, 4) Enhanced Unit Name (100, 2, 2) special rule: [Special Rule] 
+Adding special rule Special Rule Update to Enhanced Unit Name (100, 2, 2) special rule: [Special Rule]
+Added special rule Special Rule Update to Enhanced Unit Name (100, 2, 2) special rule: [Special Rule Update]
+Creating Unit: Name, 100
+	Name (100, 2, 2)
+Adding Unit to Squad
+	Squad Name (400, 2, 2) units: Hero Name (100, 5, 5) Monster Name (100, 4, 4) Enhanced Unit Name (100, 2, 2) special rule: [Special Rule Update] Name (100, 2, 2) 
+Creating Upgrade: Upgrade Name, 100
+	Upgrade Name (100)
+Adding Upgrade to Unit
+	Name (200, 2, 2) upgrades: [Upgrade Name (100)]
+Summary of final units
+Last army: Player: Player Name,  faction: Faction Name, army: Army Name (500, 2, 2) units: Squad Name (500, 2, 2) units: Hero Name (100, 5, 5) Monster Name (100, 4, 4) Enhanced Unit Name (100, 2, 2) special rule: [Special Rule Update] Name (200, 2, 2) upgrades: [Upgrade Name (100)]  
+Last squad: Squad Name (500, 2, 2) units: Hero Name (100, 5, 5) Monster Name (100, 4, 4) Enhanced Unit Name (100, 2, 2) special rule: [Special Rule Update] Name (200, 2, 2) upgrades: [Upgrade Name (100)] 
+Last enhanced unit: Enhanced Unit Name (100, 2, 2) special rule: [Special Rule Update]
+Last unit: Name (200, 2, 2) upgrades: [Upgrade Name (100)]

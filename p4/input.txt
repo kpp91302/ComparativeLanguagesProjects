@@ -1,0 +1,9 @@
+Army:	Army Name	Player Name	Faction Name
+Squad:	Squad Name
+Hero:	Hero Name	100
+Monster:	Monster Name	100
+Enhanced Unit:	Enhanced Unit Name	100	Special Rule
+Special Rule:	Special Rule Update
+Unit:	Name	100
+Upgrade:	Upgrade Name	100
+

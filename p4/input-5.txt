@@ -1,0 +1,25 @@
+Hero:	Imoen	74
+Monster:	Medusa	90
+Hero:	Rasaad yn Bashir	68
+Unit:	Monk	76
+Enhanced Unit:	Enhanced Monk	63	Flight
+Monster:	Manticore	91
+Unit:	Rogue	54
+Hero:	Rasaad yn Bashir	76
+Hero:	Rasaad yn Bashir	92
+Monster:	Hydra	61
+Upgrade:	Bag of Holding	85
+Squad:	The Shadow Blades
+Army:	The Golden Legion	Mary	The Shadowed Brotherhood
+Army:	The Black Knights	Charlie	The Iron Legion
+Special Rule:	Invisibility
+Enhanced Unit:	Enhanced Rogue	68	Mind Control
+Special Rule:	Flight
+Special Rule:	Shadow Walk
+Unit:	Wizard	79
+Hero:	Sarevok	79
+Hero:	Xan	71
+Squad:	The Demon Hunters
+Upgrade:	Gauntlets of Ogre Power	94
+Squad:	The Storm Bringers
+Upgrade:	Potion of Healing	66
