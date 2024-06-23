@@ -1,0 +1,32 @@
+input-line => of lifted carefully alice with mean book at mean lean book at cow with mean lean book at lean alice at lean book
+	Input is not a sentence.
+input-line => book saw lean book of cow of cow
+	(((book)) (saw) (((lean)book(of(cow(of(cow)))))))
+input-line => alice lifted carefully sheep
+	Input has invalid tokens.
+input-line => alice of lean lean book lifted carefully
+	Input is not a sentence.
+input-line => mean cow of lean green alice of alice with book with book sheep green lean book at mean mean cow of lean green cow with book at cow with book
+	Input has invalid tokens.
+input-line => book with book lifted lean lean book of cow at alice
+	(((book(with(book)))) (lifted) (((lean(lean))book(of(cow(at(alice)))))))
+input-line => book of green green alice found al
+	Input has invalid tokens.
+input-line => lean mean book of cow lifted book
+	((((lean(mean))book(of(cow)))) (lifted) ((book)))
+input-line => book cow green cow
+	Input is not a sentence.
+input-line => cow saw alice of cow of cow with alice
+	(((cow)) (saw) ((alice(of(cow(of(cow(with(alice)))))))))
+input-line => mean alice lifted quickly
+	Input is not a sentence.
+input-line => lean book with book with lean green alice lifted carefully
+	Input is not a sentence.
+input-line => lean alice al lean green alice at green mean alice
+	Input has invalid tokens.
+input-line => green green alice at lean green cow at lean mean alice lifted brilliantly of
+	Input is not a sentence.
+input-line => green mean alice lifted brilliantly lean mean cow with cow
+	((((green(mean))alice)) (lifted brilliantly) (((lean(mean))cow(with(cow)))))
+input-line => green book with green mean book with cow of lean alice found carefully alice
+	((((green)book(with((green(mean))book(with(cow(of((lean)alice)))))))) (found carefully) ((alice)))

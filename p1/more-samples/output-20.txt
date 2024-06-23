@@ -1,0 +1,40 @@
+input-line => alice with mean green alice of mean lean cow at book lifted alice
+	(((alice(with((mean(green))alice(of((mean(lean))cow(at(book)))))))) (lifted) ((alice)))
+input-line => alice of mean book saw quickly of
+	Input is not a sentence.
+input-line => green green cow at green mean cow at book saw quickly sheep
+	Input has invalid tokens.
+input-line => alice at lean green cow with book of lean cow of lean mean alice lifted of
+	Input is not a sentence.
+input-line => cow saw brilliantly mean lean alice with alice with green green alice with lean green cow
+	(((cow)) (saw brilliantly) (((mean(lean))alice(with(alice(with((green(green))alice(with((lean(green))cow)))))))))
+input-line => book found brilliantly cow
+	(((book)) (found brilliantly) ((cow)))
+input-line => alice with alice found quickly book of mean cow at book with mean mean cow with cow with green book at cow
+	(((alice(with(alice)))) (found quickly) ((book(of((mean)cow(at(book(with((mean(mean))cow(with(cow(with((green)book(at(cow)))))))))))))))
+input-line => cow lifted quickly lean alice with book
+	(((cow)) (lifted quickly) (((lean)alice(with(book)))))
+input-line => alice of book lifted alice
+	(((alice(of(book)))) (lifted) ((alice)))
+input-line => saw saw cow with mean green alice
+	Input is not a sentence.
+input-line => alice lifted quickly alice at mean green alice
+	(((alice)) (lifted quickly) ((alice(at((mean(green))alice)))))
+input-line => book found lean mean cow
+	(((book)) (found) (((lean(mean))cow)))
+input-line => alice of green cow found book
+	(((alice(of((green)cow)))) (found) ((book)))
+input-line => cow at mean alice of mean book found brilliantly lean green book of alice
+	(((cow(at((mean)alice(of((mean)book)))))) (found brilliantly) (((lean(green))book(of(alice)))))
+input-line => lean green alice sheep alice of green book of lean book
+	Input has invalid tokens.
+input-line => lean green book saw carefully pamphlet
+	Input has invalid tokens.
+input-line => found lifted mean book
+	Input is not a sentence.
+input-line => sheep found mean book
+	Input has invalid tokens.
+input-line => lean green book at book with cow of book with green lean alice book green green book
+	Input is not a sentence.
+input-line => pamphlet lifted alice of green alice
+	Input has invalid tokens.

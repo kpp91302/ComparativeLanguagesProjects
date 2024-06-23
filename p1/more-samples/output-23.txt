@@ -1,0 +1,40 @@
+input-line => green lean book of lean alice found carefully book of alice at alice
+	((((green(lean))book(of((lean)alice)))) (found carefully) ((book(of(alice(at(alice)))))))
+input-line => lifted found lean mean book
+	Input is not a sentence.
+input-line => book al mean mean alice
+	Input has invalid tokens.
+input-line => pamphlet found brilliantly mean green book of book
+	Input has invalid tokens.
+input-line => al found quickly cow of lean lean cow
+	Input has invalid tokens.
+input-line => saw found alice
+	Input is not a sentence.
+input-line => cow with lean alice with lean lean cow lifted book of book of mean green book at lean book
+	(((cow(with((lean)alice(with((lean(lean))cow)))))) (lifted) ((book(of(book(of((mean(green))book(at((lean)book)))))))))
+input-line => alice at lean green cow of green mean book with book at alice of cow al mean mean cow at lean green book
+	Input has invalid tokens.
+input-line => alice found alice
+	(((alice)) (found) ((alice)))
+input-line => al found green mean alice of lean cow
+	Input has invalid tokens.
+input-line => lean cow at alice of cow of lean green cow with mean mean book saw mean alice at green book of cow of cow at cow
+	((((lean)cow(at(alice(of(cow(of((lean(green))cow(with((mean(mean))book)))))))))) (saw) (((mean)alice(at((green)book(of(cow(of(cow(at(cow)))))))))))
+input-line => lean book found book with alice
+	((((lean)book)) (found) ((book(with(alice)))))
+input-line => green lean alice at lean cow with cow found quickly mean lean cow
+	((((green(lean))alice(at((lean)cow(with(cow)))))) (found quickly) (((mean(lean))cow)))
+input-line => lean cow of alice at alice of green green cow found brilliantly green alice at cow
+	((((lean)cow(of(alice(at(alice(of((green(green))cow)))))))) (found brilliantly) (((green)alice(at(cow)))))
+input-line => alice found quickly book
+	(((alice)) (found quickly) ((book)))
+input-line => cow saw mean cow
+	(((cow)) (saw) (((mean)cow)))
+input-line => cow of book found carefully book at alice with green mean book
+	(((cow(of(book)))) (found carefully) ((book(at(alice(with((green(mean))book)))))))
+input-line => book found with
+	Input is not a sentence.
+input-line => alice at mean book at lean alice pamphlet green book
+	Input has invalid tokens.
+input-line => pamphlet saw green alice at book
+	Input has invalid tokens.
